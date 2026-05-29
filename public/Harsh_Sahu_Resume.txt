@@ -1,0 +1,36 @@
+Harsh Sahu
+Full Stack Developer
+Jhansi, Uttar Pradesh, India
+Phone: +91 6388875540
+Email: harshsahu1109@gmail.com
+LinkedIn: https://linkedin.com/in/harsh-sahu1109
+GitHub: https://github.com/harshsahu11
+
+Summary
+Full-stack developer skilled in building scalable and secure web applications using React, Node.js, Express.js, MongoDB, and modern backend technologies.
+
+Education
+Hindustan College Of Science and Technology
+B.Tech CSE
+CGPA: 8.3
+
+Core Skills
+Java, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, SQL, REST APIs, JWT Authentication, DSA, OOP, DBMS, Operating Systems, Git, GitHub, Postman, Cloudinary, MongoDB Atlas.
+
+Projects
+WanderLust: Full-stack accommodation marketplace supporting 100+ listings with search, filtering, authentication, RBAC, Cloudinary integration, and MongoDB optimization.
+Talky: Real-time chat application supporting secure one-to-one messaging with Socket.IO, JWT authentication, REST APIs, React, Node.js, Express, and MongoDB.
+URL Shortener: URL shortening platform with analytics, traffic tracking, link generation, MongoDB storage, and fast redirection.
+Interview AI Assistant: AI-powered interview preparation assistant for generating practice prompts, structuring answers, and improving candidate readiness.
+
+Experience
+Full Stack Web Developer Intern, Unified Mentor
+Nov 2024 - Dec 2024
+Built a MERN-based logistics platform for shipment booking workflows. Designed REST APIs, developed backend services, built database schemas, implemented validation and error handling, and optimized MongoDB queries using indexing.
+
+Achievements
+Solved 500+ LeetCode Problems.
+Solved 200+ GeeksforGeeks Problems.
+HackerRank Java Certification.
+Full Stack Developer Certification (RCPL India).
+Built multiple production-level MERN applications.
