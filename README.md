@@ -142,10 +142,6 @@ AI-powered assistant for practicing technical, behavioral, and HR interview ques
 
 Contributions are welcome! Please open issues or submit pull requests for improvements.
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE) (add license file if needed).
-
 ## 📬 Contact
 
 - **Email:** harshsahu1109@gmail.com
