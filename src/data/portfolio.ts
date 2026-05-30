@@ -30,6 +30,8 @@ import interviewAssistantImage from "../assets/interview-assistant.jpg";
 import talkyImage from "../assets/talky.jpg";
 import urlShortenerImage from "../assets/url-shortener.png";
 import wanderlustImage from "../assets/wanderlust.jpg";
+import blogifyImage from "../assets/Blog.jpg";
+import notesAppImage from "../assets/Notes App.jpg";
 
 export const personal = {
   name: "Harsh Sahu",
@@ -237,6 +239,66 @@ export const projects = [
     gradient: "from-[#00d9ff]/22 via-[#111a30] to-[#f4b64f]/24",
     github: "https://github.com/Harshsahu11/Interview-Assistant-ai",
     live: "https://interview-assistant-ai-bv3f.onrender.com",
+  },
+  {
+    title: "Blogify",
+    description:
+      "A modern full-stack blogging platform that enables users to create, edit, publish, and manage blogs with an intuitive content management interface and responsive user experience.",
+
+    highlights: [
+      "Built complete blog creation and publishing workflows with rich content management.",
+      "Implemented secure authentication and authorization for content creators.",
+      "Designed responsive UI for seamless reading and writing experience across devices.",
+      "Developed CRUD operations for creating, editing, deleting, and managing blog posts.",
+    ],
+
+    features: [
+      "Blog Publishing",
+      "Rich Content Editor",
+      "User Authentication",
+      "Responsive Design",
+    ],
+
+    tech: ["React", "JavaScript", "Node.js", "Express.js", "MongoDB", "CSS3"],
+
+    icon: TbCodeDots,
+    image: blogifyImage,
+    visual: "blog",
+
+    gradient: "from-[#ff8a65]/20 via-[#10182b] to-[#42a5f5]/20",
+
+    github: "https://github.com/Harshsahu11/Blogify",
+    live: "https://blogify-ryzp.onrender.com/",
+  },
+  {
+    title: "Notes App",
+    description:
+      "A responsive note management application that allows users to create, organize, and delete notes efficiently through a clean and user-friendly interface.",
+
+    highlights: [
+      "Built dynamic note creation and deletion functionality using React state management.",
+      "Implemented responsive UI with real-time updates without page reloads.",
+      "Designed structured note cards for better readability and organization.",
+      "Focused on component-based architecture and reusable React components.",
+    ],
+
+    features: [
+      "Create Notes",
+      "Delete Notes",
+      "Real-time Updates",
+      "Responsive UI",
+    ],
+
+    tech: ["React", "JavaScript", "HTML5", "CSS3"],
+
+    icon: FaReact,
+    image: notesAppImage,
+    visual: "notes",
+
+    gradient: "from-[#ffd54f]/20 via-[#10182b] to-[#81c784]/20",
+
+    github: "https://github.com/Harshsahu11/Notes-App",
+    live: "https://notesappsync.netlify.app/",
   },
 ];
 
