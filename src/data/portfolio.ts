@@ -31,7 +31,7 @@ import talkyImage from "../assets/talky.jpg";
 import urlShortenerImage from "../assets/url-shortener.png";
 import wanderlustImage from "../assets/wanderlust.jpg";
 import blogifyImage from "../assets/Blog.jpg";
-import notesAppImage from "../assets/Notes App.jpg";
+import notesAppImage from "../assets/Notes.jpg";
 
 export const personal = {
   name: "Harsh Sahu",
