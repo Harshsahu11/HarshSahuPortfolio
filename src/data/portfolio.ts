@@ -164,7 +164,7 @@ export const projects = [
     visual: "marketplace",
     gradient: "from-[#f4b64f]/30 via-[#10182b] to-[#00d9ff]/20",
     github: "https://github.com/Harshsahu11/WanderLust",
-    live: "",
+    live: "https://wanderlustproject-lj8s.onrender.com",
   },
   {
     title: "Talky",
@@ -188,7 +188,7 @@ export const projects = [
     visual: "chat",
     gradient: "from-[#00d9ff]/26 via-[#10182b] to-[#f4b64f]/16",
     github: "https://github.com/Harshsahu11/Talky",
-    live: "",
+    live: "https://talky-dbta.onrender.com",
   },
   {
     title: "URL Shortener",
@@ -236,7 +236,7 @@ export const projects = [
     visual: "ai",
     gradient: "from-[#00d9ff]/22 via-[#111a30] to-[#f4b64f]/24",
     github: "https://github.com/Harshsahu11/Interview-Assistant-ai",
-    live: "",
+    live: "https://interview-assistant-ai-bv3f.onrender.com",
   },
 ];
 
