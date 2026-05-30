@@ -113,7 +113,7 @@ export const skillGroups: SkillGroup[] = [
   {
     title: "Frontend Development",
     icon: FaReact,
-    skills: ["React.js", "HTML5", "CSS3", "Bootstrap","Tailwind Css"],
+    skills: ["React.js", "HTML5", "CSS3", "Bootstrap", "Tailwind Css"],
   },
   {
     title: "Backend Development",
@@ -211,7 +211,7 @@ export const projects = [
     image: urlShortenerImage,
     visual: "analytics",
     gradient: "from-[#18233e] via-[#f4b64f]/18 to-[#00d9ff]/18",
-    github: "https://github.com/Harshsahu11/URL-Shortener",
+    github: "https://github.com/Harshsahu11/URL_Shortener",
     live: "",
   },
   {
